@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TimmyGiorno
 - 👀 I want to be an explorer of this expansive world.
-- 🌱 I’m currently learning: Orchestration, Django, JavaScript, Deep Learning and LLM, Organization Management, and Game Development.
-- 💞️ I’m fans of Rachmaninoff, Brahms, Faulkner, Dostroevsky, Goya, Delacroix, and Liverpool.
-- 📫 My personal website is: timmygiorno.github.io
+- 📫 My personal website is: [timmygiorno.github.io](https://timmygiorno.github.io/). You can find a more comprehensive personal introduction about me [here](https://timmygiorno.github.io/about/).
 
 <!---
 TimmyGiorno/TimmyGiorno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
